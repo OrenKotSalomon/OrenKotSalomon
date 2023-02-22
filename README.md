@@ -1,9 +1,8 @@
 ### Hi I’m Oren Salomon Kot, FullStack Developer!
 
-<!--
-**OrenKotSalomon/OrenKotSalomon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<!-- **OrenKotSalomon/OrenKotSalomon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
+
 
 - 🔭 As a person I am very calm when it comes to high
 pressure situations,Work ethics are very important to me and I have a high
